@@ -2,4 +2,13 @@ footer {
 	background-color: #eeeeee;
 }
 
- 
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(http://www.arabiangazette.com/wp-content/uploads/2016/03/top-10-music-biopic.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: yellow 0.1em 0.1em 0.1em;
+}
+
